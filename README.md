@@ -1,6 +1,6 @@
 # Piggy Metrics (Kubernetes) - Config service
 
-[![CircleCI](https://circleci.com/gh/afermon/PiggyMetrics-config-service.svg?style=svg)](https://circleci.com/gh/afermon/PiggyMetrics-config-service) [![codecov](https://codecov.io/gh/afermon/PiggyMetrics-config-service/branch/master/graph/badge.svg)](https://codecov.io/gh/afermon/PiggyMetrics-config-service) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/afermon/PiggyMetrics-config-service/blob/master/LICENCE)
+[![CircleCI](https://circleci.com/gh/afermon/PiggyMetrics-config-service.svg?style=svg)](https://circleci.com/gh/afermon/PiggyMetrics-config-service) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/afermon/PiggyMetrics-config-service/blob/master/LICENCE)
 
 [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html) is horizontally scalable centralized configuration service for distributed systems. It uses a pluggable repository layer that currently supports local storage, Git, and Subversion. 
 
@@ -35,5 +35,6 @@ Also, you could use Repository [webhooks to automate this process](http://cloud.
 
 For more information please refer to the main repository [afermon/PiggyMetrics-Kubernetes](https://github.com/afermon/PiggyMetrics-Kubernetes)
 
-## Refereces
+## Credits
+
 * Forked from [sqshq/PiggyMetrics](https://github.com/sqshq/PiggyMetrics)
